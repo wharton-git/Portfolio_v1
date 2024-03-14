@@ -1,2 +1,15 @@
 body {
+    // height: 200vh;
+    background-color: black;
 }
+#bio {
+    .text-bio {
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+}
+
+.flou {
+    backdrop-filter: blur(3px);
+}
+

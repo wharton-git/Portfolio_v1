@@ -56,7 +56,6 @@ body {
 }
 .dropdown.active .items a {
   left: 0;
-  transition: 0.5s;
 }
 
 /*# sourceMappingURL=Style.css.map */

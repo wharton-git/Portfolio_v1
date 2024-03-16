@@ -42,19 +42,19 @@
 
 @keyframes words {
     0%,20%{
-        content: "Web Developer";
+        content: "Developer";
     }
     21%,40%{
-        content: "Gamer";
-    }
-    41%,60%{
-        content: "Software Developer";
-    }
-    61%,80%{
         content: "Designer";
     }
+    41%,60%{
+        content: "Gamer";
+    }
+    61%,80%{
+        content: "Unknown";
+    }
     81%,100%{
-        content: "Junior Developer";
+        content: "Unknown";
     }
 }
 
